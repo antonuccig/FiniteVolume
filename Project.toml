@@ -1,4 +1,4 @@
-name = "FiniteVolume"
+name = "NSDEFiniteVolume"
 uuid = "16f6cd05-688a-40a2-95c3-6de21e7a501e"
 authors = ["Giancarlo A. Antonucci"]
 version = "0.1.0"
