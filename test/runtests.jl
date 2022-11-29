@@ -1,6 +1,6 @@
-using FiniteVolume
+using NSDEFiniteVolume
 using Test
 
-@testset "FiniteVolume.jl" begin
+@testset "NSDEFiniteVolume.jl" begin
     # Write your tests here.
 end
